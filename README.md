@@ -1,3 +1,5 @@
+![npm version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&r=r&type=6e&v=1.0.5&x2=0)
+
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
@@ -67,7 +69,7 @@
 
 
 <!-- GETTING STARTED -->
-## Começar a usar!
+## 🚀 Começar a usar!
 
 Estás pronto para começar a usar o nosso package ?  🙃
 
@@ -119,6 +121,16 @@ Estás pronto para começar a usar o nosso package ?  🙃
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+## ☕ Contribuição 
+
+  <strong>Swipe Contactos 🔻</strong><br>
+  Discord: Swipe#7992<br>
+  Telegram: @theswipe<br>
+  Twitter: Swipeee13<br>
+  
+  <strong>Exposit Contactos 🔻</strong><br>
+  Discord Server: [Entrar](https://discord.gg/GjFmjJzMHm) <br>
+  Email: help@exposit.xyz
 
 <!-- CONTACT -->
 ## Contactos
